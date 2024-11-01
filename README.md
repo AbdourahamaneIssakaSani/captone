@@ -1,3 +1,6 @@
+# Deployed Solution
+- https://vaxichain.onrender.com/
+- Video (In Submission Comments)
 # Project Setup Guide
 
 This guide explains how to set up Avalanche, CouchDB, and configure the project environment to run the API and React frontend.
